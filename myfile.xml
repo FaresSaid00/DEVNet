@@ -1,0 +1,6 @@
+<config>
+    <edit-config>
+        <default-operation>merge</default-operation>
+        <test-option>check-sync</test-option>
+    </edit-config>
+</config>
